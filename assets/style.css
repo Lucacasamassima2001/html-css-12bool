@@ -1,0 +1,29 @@
+[class*="col-"]{
+    background-color: blue;
+    height: 50px;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+[class*="col-offsets"]{
+    background-color: blue;
+    height: 50px;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+
+
+
+.nested{
+    background-color: green;
+    height: 30px;
+    padding-inline: 2px;
+    border: 1px solid blue;
+}
+
+
+
+
+
+
