@@ -1,4 +1,4 @@
-[class*="col-"]{
+/* [class*="col-"]{
     background-color: blue;
     height: 50px;
     border: 1px solid white;
@@ -11,8 +11,14 @@
     height: 30px;
     padding-inline: 2px;
     border: 1px solid blue;
-}
+} */
 
+
+.content{
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
 
 
 
